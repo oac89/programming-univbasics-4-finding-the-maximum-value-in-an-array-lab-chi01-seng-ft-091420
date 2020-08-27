@@ -1,4 +1,3 @@
-find_max_value( [1, 2, 1, 1, 3, 4, 3, 5, 4, 3, 2, 1] )
 def find_max_value(array)
   count = 0 
   max_value = -1 
@@ -10,3 +9,4 @@ def find_max_value(array)
     end 
     max_value 
 end
+find_max_value( [1, 2, 1, 1, 3, 4, 3, 5, 4, 3, 2, 1] )
